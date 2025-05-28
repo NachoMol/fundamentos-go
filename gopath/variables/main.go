@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"unsafe"
+	"strconv"
 )
 
 func main() {
@@ -53,7 +53,8 @@ func main() {
 	fmt.Println("My variable: ", myScopeVariable)
 	fmt.Println("My variable: ", myOtherScopeVariable)
 
-	*/
+
+
 
 	var my8BitsUintVar uint8
 	fmt.Printf("type: %T, value: %d ,bytes: %d, bits: %d \n", my8BitsUintVar, my8BitsUintVar, unsafe.Sizeof(my8BitsUintVar), unsafe.Sizeof(my8BitsUintVar)*8)
@@ -67,4 +68,27 @@ func main() {
 	var myStringVar3 string = "test1234"
 	fmt.Printf("type: %T, value: %s ,bytes: %d, bits: %d \n", myStringVar3, myStringVar3, unsafe.Sizeof(myStringVar3), unsafe.Sizeof(myStringVar3)*8)
 
+	*/
+
+	{
+		/*
+
+			floatVar := 33.11
+			fmt.Printf("type: %T, value: %f\n", floatVar, floatVar)
+
+			floatStrVar := fmt.Sprintf("%.4f", floatVar)
+			fmt.Printf("type: %T, value: %s\n", floatStrVar, floatStrVar)
+
+			intVar := 342
+			intStrVar := strconv.Itoa(intVar)
+			fmt.Printf("type: %T, value: %s\n", intStrVar, intStrVar)
+
+		*/
+
+		strIntVar2, err := strconv.Atoi("15")
+		fmt.Printf("type: %T, value: %d, err: %v\n", strIntVar2, strIntVar2, err)
+
+		strIntVar3, err := strconv.ParseInt("10", 2, 64)
+		fmt.Printf("type: %T, value: %d, err: %v\n", strIntVar3, strIntVar3, err)
+	}
 }
