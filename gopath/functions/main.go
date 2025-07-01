@@ -14,4 +14,8 @@ func main() {
 	fmt.Println("Sum:", v)
 
 	function.RepeatString(3, "Hello, World!")
+
+	value, err := function.Calc(function.SUM, 10, 5)
+
+	fmt.Println("Value:", value, "- Error:", err)
 }
