@@ -67,3 +67,19 @@ func MSum(values ...float64) float64 {
 	}
 	return sum
 }
+
+func MOperations(op Operation, values ...float64) (float64, error) {
+	if len(values) == 0 {
+		return 0, errors.New("no values provided")
+	}
+
+	result := values[0]
+	for _, value := range values[1:] {
+		var err error
+		result, err = Calc(op, result, value)
+		if err != nil {
+			return 0, err
+		}
+	}
+	return result, nil
+}
