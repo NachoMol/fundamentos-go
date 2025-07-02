@@ -51,3 +51,19 @@ func Calc(op Operation, x, y float64) (float64, error) {
 		return 0, fmt.Errorf("unknown operation: %d", op)
 	}
 }
+
+func Split(v int) (x, y int) {
+
+	x = v * 4 / 9
+	y = v - x
+	return
+
+}
+
+func MSum(values ...float64) float64 {
+	var sum float64
+	for _, value := range values {
+		sum += value
+	}
+	return sum
+}

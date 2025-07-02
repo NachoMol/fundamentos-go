@@ -18,4 +18,10 @@ func main() {
 	value, err := function.Calc(function.SUM, 10, 5)
 
 	fmt.Println("Value:", value, "- Error:", err)
+
+	xVal, yVal := function.Split(100)
+	fmt.Println("Split values:", xVal, yVal)
+
+	val2 := function.MSum(1, 2, 3, 4, 5, 3, 3, 2, 3)
+	fmt.Println("Sum of variable arguments:", val2)
 }
