@@ -33,4 +33,19 @@ func main() {
 	} else {
 		fmt.Println("Result of MOperations:", val3)
 	}
+
+	factOpFunc := function.FactoryOperation(function.SUM)
+	if factOpFunc != nil {
+		result := factOpFunc(10, 5)
+		fmt.Println("Result of factory operation (SUM):", result)
+	} else {
+		fmt.Println("No valid operation function found.")
+	}
+	factOpFunc = function.FactoryOperation(function.SUB)
+	if factOpFunc != nil {
+		result := factOpFunc(10, 5)
+		fmt.Println("Result of factory operation (SUB):", result)
+	} else {
+		fmt.Println("No valid operation function found.")
+	}
 }
