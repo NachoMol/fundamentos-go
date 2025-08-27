@@ -13,14 +13,17 @@ type User struct {
 	LastName string `json:"last_name,omitempty"`
 }
 
+func (u User) Display() {
+	v, _ := json.Marshal(u)
+
+	fmt.Println(string(v))
+}
+
 func main() {
 	user := User{
 		ID:   1,
 		Name: "Nacho",
 	}
 	fmt.Println(user)
-	v, err := json.Marshal(user)
-	fmt.Println(err)
-	fmt.Println(string(v))
-
+	user.Display()
 }
