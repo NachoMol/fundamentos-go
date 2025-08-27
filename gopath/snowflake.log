@@ -1,0 +1,324 @@
+{"level":"INFO","message":"[3:16:04.961 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:16:04.970 PM]: Creating Connection[id: 6a366fb1-2f7e-480d-b225-dfa0b4fe6625] with host: il15727.europe-west4.gcp.snowflakecomputing.com, account: il15727, accessUrl: https://il15727.europe-west4.gcp.snowflakecomputing.com, user: ignacio.molina@monks.com, role: undefined, database: undefined, schema: undefined, warehouse: undefined, proxy was not configured, password is not provided, region: europe-west4.gcp, authenticator: EXTERNALBROWSER, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.5.0"}
+{"level":"INFO","message":"[3:16:04.971 PM]: Connection[id: 6a366fb1-2f7e-480d-b225-dfa0b4fe6625] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: VSCODE_1.16.1, client name: snowflake-sdk, client version: 2.1.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:16:04.971 PM]: Connection[id: 6a366fb1-2f7e-480d-b225-dfa0b4fe6625] - connection object created successfully."}
+{"level":"INFO","message":"[3:16:04.971 PM]: Connection[id: 6a366fb1-2f7e-480d-b225-dfa0b4fe6625] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:16:04.972 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:16:04.973 PM]: No client config detected."}
+{"level":"INFO","message":"[3:16:04.974 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:16:04.974 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:16:10.618 PM]: Connection[id: 6a366fb1-2f7e-480d-b225-dfa0b4fe6625] - authentication successful using: EXTERNALBROWSER"}
+{"level":"INFO","message":"[3:16:10.626 PM]: Connection[id: 6a366fb1-2f7e-480d-b225-dfa0b4fe6625] - connected successfully after 5654.798707962036 milliseconds"}
+{"level":"INFO","message":"[3:16:53.210 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:16:53.219 PM]: Creating Connection[id: a1e9efdc-2881-4e3b-b40b-96d7f540b317] with host: il15727.europe-west4.gcp.snowflakecomputing.com, account: il15727, accessUrl: https://il15727.europe-west4.gcp.snowflakecomputing.com, user: ignacio.molina@monks.com, role: undefined, database: undefined, schema: undefined, warehouse: undefined, proxy was not configured, password is not provided, region: europe-west4.gcp, authenticator: EXTERNALBROWSER, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.5.0"}
+{"level":"INFO","message":"[3:16:53.220 PM]: Connection[id: a1e9efdc-2881-4e3b-b40b-96d7f540b317] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: VSCODE_1.16.1, client name: snowflake-sdk, client version: 2.1.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:16:53.221 PM]: Connection[id: a1e9efdc-2881-4e3b-b40b-96d7f540b317] - connection object created successfully."}
+{"level":"INFO","message":"[3:16:53.221 PM]: Connection[id: a1e9efdc-2881-4e3b-b40b-96d7f540b317] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:16:53.221 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:16:53.224 PM]: No client config detected."}
+{"level":"INFO","message":"[3:16:53.224 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:16:53.224 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:16:57.422 PM]: Connection[id: a1e9efdc-2881-4e3b-b40b-96d7f540b317] - authentication successful using: EXTERNALBROWSER"}
+{"level":"INFO","message":"[3:16:57.426 PM]: Connection[id: a1e9efdc-2881-4e3b-b40b-96d7f540b317] - connected successfully after 4205.5014580000025 milliseconds"}
+{"level":"ERROR","message":"[12:31:26.153 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[11:42:29.760 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:38:53.411 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[5:23:00.899 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[9:55:09.204 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:06:20.048 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[9:31:53.781 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[10:31:56.518 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:31:53.709 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:31:53.884 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"INFO","message":"[12:40:17.273 PM]: Creating new connection object"}
+{"level":"INFO","message":"[12:40:17.278 PM]: Creating Connection[id: c510a40e-5dcf-4ddb-ad0d-2c3179ab5a65] with host: il15727.europe-west4.gcp.snowflakecomputing.com, account: il15727, accessUrl: https://il15727.europe-west4.gcp.snowflakecomputing.com, user: ignacio.molina@monks.com, role: undefined, database: undefined, schema: undefined, warehouse: undefined, proxy was not configured, password is not provided, region: europe-west4.gcp, authenticator: EXTERNALBROWSER, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.5.0"}
+{"level":"INFO","message":"[12:40:17.278 PM]: Connection[id: c510a40e-5dcf-4ddb-ad0d-2c3179ab5a65] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: VSCODE_1.16.1, client name: snowflake-sdk, client version: 2.1.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:40:17.279 PM]: Connection[id: c510a40e-5dcf-4ddb-ad0d-2c3179ab5a65] - connection object created successfully."}
+{"level":"INFO","message":"[12:40:17.279 PM]: Connection[id: c510a40e-5dcf-4ddb-ad0d-2c3179ab5a65] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:40:22.843 PM]: Connection[id: c510a40e-5dcf-4ddb-ad0d-2c3179ab5a65] - authentication successful using: EXTERNALBROWSER"}
+{"level":"INFO","message":"[12:40:22.845 PM]: Connection[id: c510a40e-5dcf-4ddb-ad0d-2c3179ab5a65] - connected successfully after 5566.533333063126 milliseconds"}
+{"level":"ERROR","message":"[5:44:01.249 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[10:07:10.846 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:38:46.841 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[7:38:07.922 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[1:50:37.346 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[2:50:38.178 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:11:19.129 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:56:00.159 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"INFO","message":"[1:14:22.157 PM]: Creating new connection object"}
+{"level":"INFO","message":"[1:14:22.165 PM]: Creating Connection[id: dae98d10-25ff-4db7-b657-08dc6fb31385] with host: il15727.europe-west4.gcp.snowflakecomputing.com, account: il15727, accessUrl: https://il15727.europe-west4.gcp.snowflakecomputing.com, user: ignacio.molina@monks.com, role: undefined, database: undefined, schema: undefined, warehouse: undefined, proxy was not configured, password is not provided, region: europe-west4.gcp, authenticator: EXTERNALBROWSER, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.6.0"}
+{"level":"INFO","message":"[1:14:22.166 PM]: Connection[id: dae98d10-25ff-4db7-b657-08dc6fb31385] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: VSCODE_1.17.0, client name: snowflake-sdk, client version: 2.1.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:14:22.166 PM]: Connection[id: dae98d10-25ff-4db7-b657-08dc6fb31385] - connection object created successfully."}
+{"level":"INFO","message":"[1:14:22.167 PM]: Connection[id: dae98d10-25ff-4db7-b657-08dc6fb31385] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:14:22.167 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:14:22.170 PM]: No client config detected."}
+{"level":"INFO","message":"[1:14:22.170 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:14:22.170 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:14:27.343 PM]: Connection[id: dae98d10-25ff-4db7-b657-08dc6fb31385] - authentication successful using: EXTERNALBROWSER"}
+{"level":"INFO","message":"[1:14:27.346 PM]: Connection[id: dae98d10-25ff-4db7-b657-08dc6fb31385] - connected successfully after 5179.5840409994125 milliseconds"}
+{"level":"ERROR","message":"[10:35:30.922 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[5:39:23.696 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:53:12.707 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[7:57:01.657 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[9:08:31.322 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[10:15:30.453 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[11:24:33.857 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[12:33:26.538 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[1:45:48.720 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[2:55:46.306 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:59:51.982 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:07:22.584 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:09:15.316 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:22:54.182 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:23:54.156 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:24:53.855 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:25:54.209 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:25:54.202 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:25:54.322 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:25:54.349 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:27:37.631 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:27:37.472 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:27:37.470 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:27:37.406 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:31:10.619 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:43:03.605 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:44:16.850 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:52:12.505 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:57:42.611 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:03:57.037 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:03:59.439 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:14:39.464 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:29:48.033 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:40:23.009 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:49:10.587 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:52:58.901 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:00:28.897 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:08:41.506 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"INFO","message":"[9:19:44.865 AM]: Creating new connection object"}
+{"level":"INFO","message":"[9:19:44.868 AM]: Creating Connection[id: 01672c06-8fb4-4c98-8880-a4e683536170] with host: il15727.europe-west4.gcp.snowflakecomputing.com, account: il15727, accessUrl: https://il15727.europe-west4.gcp.snowflakecomputing.com, user: ignacio.molina@monks.com, role: undefined, database: undefined, schema: undefined, warehouse: undefined, proxy was not configured, password is not provided, region: europe-west4.gcp, authenticator: EXTERNALBROWSER, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.6.0"}
+{"level":"INFO","message":"[9:19:44.869 AM]: Connection[id: 01672c06-8fb4-4c98-8880-a4e683536170] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: VSCODE_1.17.0, client name: snowflake-sdk, client version: 2.1.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[9:19:44.869 AM]: Connection[id: 01672c06-8fb4-4c98-8880-a4e683536170] - connection object created successfully."}
+{"level":"INFO","message":"[9:19:44.869 AM]: Connection[id: 01672c06-8fb4-4c98-8880-a4e683536170] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[9:19:48.284 AM]: Connection[id: 01672c06-8fb4-4c98-8880-a4e683536170] - authentication successful using: EXTERNALBROWSER"}
+{"level":"INFO","message":"[9:19:48.286 AM]: Connection[id: 01672c06-8fb4-4c98-8880-a4e683536170] - connected successfully after 3417.489790916443 milliseconds"}
+{"level":"ERROR","message":"[5:27:57.350 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[6:59:33.074 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[3:46:19.817 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[12:21:54.590 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[1:35:15.630 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[2:40:56.461 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[3:46:34.067 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[4:52:32.857 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[5:53:35.160 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:54:21.232 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:55:20.849 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:56:20.788 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:57:20.567 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:58:20.680 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:11:48.286 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:13:28.997 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:15:19.916 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:17:10.889 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:19:07.970 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:21:03.136 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:22:55.245 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:36:17.648 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:39:52.829 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:51:57.246 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:51:57.218 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:51:57.398 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:51:57.385 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:51:57.414 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:51:57.321 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:51:57.479 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:51:57.441 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:02:58.343 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:13:41.667 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:26:18.416 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:27:18.861 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:28:18.861 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:30:11.275 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:35:06.837 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:35:07.052 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:35:07.799 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:35:07.768 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:35:07.626 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:40:05.687 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:46:56.671 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:48:57.657 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:03:48.439 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:03:48.478 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:03:48.295 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:03:47.988 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:03:48.172 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:03:48.468 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:03:48.653 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:03:48.643 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:16:39.552 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:29:06.229 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:30:52.014 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:34:39.407 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:48:25.745 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:50:33.808 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:05:18.134 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:14:21.675 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:16:12.719 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:18:02.532 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:20:06.022 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:22:05.339 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:23:52.650 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:36:05.810 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:37:45.622 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:37:45.676 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:37:45.671 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:37:45.680 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:37:45.792 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:42:00.022 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:42:00.018 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:42:00.049 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:42:00.134 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:54:25.170 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:59:05.160 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:02:26.362 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:10:41.747 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:19:13.890 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:19:47.131 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:20:33.124 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:21:24.891 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:22:03.706 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:22:38.694 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:30:16.159 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:38:56.823 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:44:18.343 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:58:10.486 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:01:33.603 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:11:05.182 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:11:05.316 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:11:05.306 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:11:05.459 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:11:05.541 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:11:05.463 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:11:50.078 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:19:56.826 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:19:56.832 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:21:11.538 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:23:03.985 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:34:42.230 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:36:41.301 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:37:47.417 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:39:35.124 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:41:33.333 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:43:27.678 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:45:21.234 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:47:21.433 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:47:52.875 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:49:43.786 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:58:43.164 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:13:11.800 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:14:18.481 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:15:13.021 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:24:41.322 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:26:29.343 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:26:29.345 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:26:59.359 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:28:00.225 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:28:59.692 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:29:58.506 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:30:59.876 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:31:59.561 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:32:58.444 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:33:52.389 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:35:37.573 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:37:31.739 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:39:22.617 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:41:25.872 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:43:14.428 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:45:01.533 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:46:50.222 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:57:20.772 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:59:16.419 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:07:39.841 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:08:40.219 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:09:39.398 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:09:39.432 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:09:39.420 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:10:40.171 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:10:44.037 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:11:43.855 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:12:43.763 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:13:43.476 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:14:43.790 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:15:43.546 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:16:44.143 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:18:36.130 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:23:31.230 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:25:32.521 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:27:31.995 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:29:21.948 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:31:14.389 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:33:02.605 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:35:09.310 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:37:05.762 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:51:34.399 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:52:26.320 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:53:15.628 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:54:25.084 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:55:19.008 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:56:23.372 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:57:19.768 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:58:25.587 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:59:37.964 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:00:27.929 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:01:33.095 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:02:24.049 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:03:25.783 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:04:15.162 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:05:19.997 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:06:20.429 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:07:11.090 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:09:14.211 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:11:28.914 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:13:29.600 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:15:18.068 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:17:13.299 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:19:13.388 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:27:28.657 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:30:47.856 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:31:09.157 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:31:09.324 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:31:09.353 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:39:21.969 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:55:45.783 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:55:45.959 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:55:46.113 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:55:46.078 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[6:07:18.469 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:08:03.217 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:12:44.942 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:24:20.907 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:29:37.400 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:30:15.122 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:40:56.448 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:41:32.661 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:42:05.893 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[3:42:52.539 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[4:43:39.560 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[5:57:21.956 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[7:03:01.308 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[8:05:08.208 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[9:18:52.396 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[10:19:52.623 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[11:19:52.659 AM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[12:19:52.636 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[1:19:52.774 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"ERROR","message":"[2:19:52.839 PM]: Error issuing heartbeat call: Unable to perform operation using terminated connection."}
+{"level":"INFO","message":"[2:53:39.214 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:53:39.218 PM]: Creating Connection[id: 5bdc8c8d-70e3-4b0b-be84-0e7c06bbe43a] with host: il15727.europe-west4.gcp.snowflakecomputing.com, account: il15727, accessUrl: https://il15727.europe-west4.gcp.snowflakecomputing.com, user: ignacio.molina@monks.com, role: undefined, database: undefined, schema: undefined, warehouse: undefined, proxy was not configured, password is not provided, region: europe-west4.gcp, authenticator: EXTERNALBROWSER, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.6.0"}
+{"level":"INFO","message":"[2:53:39.219 PM]: Connection[id: 5bdc8c8d-70e3-4b0b-be84-0e7c06bbe43a] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: VSCODE_1.17.0, client name: snowflake-sdk, client version: 2.1.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:53:39.219 PM]: Connection[id: 5bdc8c8d-70e3-4b0b-be84-0e7c06bbe43a] - connection object created successfully."}
+{"level":"INFO","message":"[2:53:39.219 PM]: Connection[id: 5bdc8c8d-70e3-4b0b-be84-0e7c06bbe43a] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:53:44.170 PM]: Connection[id: 5bdc8c8d-70e3-4b0b-be84-0e7c06bbe43a] - authentication successful using: EXTERNALBROWSER"}
+{"level":"INFO","message":"[2:53:44.172 PM]: Connection[id: 5bdc8c8d-70e3-4b0b-be84-0e7c06bbe43a] - connected successfully after 4952.8835418224335 milliseconds"}
+{"level":"ERROR","message":"[9:49:03.758 AM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[3:32:14.342 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
+{"level":"ERROR","message":"[5:38:38.604 PM]: Error issuing heartbeat call: Network error. Could not reach Snowflake."}
